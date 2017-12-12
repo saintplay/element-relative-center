@@ -12,9 +12,9 @@ or
     yarn add element-relative-center
 
 
-## Usage ##
+## Example ##
 
-**Example:** If the element has a width: 1360px and height: 440  
+If the element has a width: 1360px and height: 440  
 The relative center would be x: 680 and y: 220  
 *Note:* if the element has scroll overflow, the center will be readjusted
 
