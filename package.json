@@ -1,6 +1,6 @@
 {
   "name": "element-relative-center",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the x,y relative coordinates of an element's center",
   "keywords": [
     "coordinates",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saintplay/saintplay/element-relative-center.git"
+    "url": "git+https://github.com/saintplay/element-relative-center.git"
   },
   "bugs": {
-    "url": "https://github.com/saintplay/saintplay/element-relative-center/issues"
+    "url": "https://github.com/saintplay/element-relative-center/issues"
   },
   "main": "dist/element-relative-center.min.js",
   "typings": "index.d.ts",
